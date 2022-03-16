@@ -9,7 +9,7 @@ class Title extends Component {
     render(){
       return(
         <h1 style={styles.title}>
-        Tienda</h1>
+        Tienda de Zeir Braidi</h1>
         )
     }
 }
